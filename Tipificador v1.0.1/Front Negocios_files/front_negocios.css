@@ -1,0 +1,8 @@
+/* * Personalizacion de nav-pills o tag's */
+.nav-pills .nav-link:hover {
+    background-color: #f7f7f7;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link:hover {
+    color: #fff;
+    background-color: #5089de;
+}
